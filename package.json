@@ -1,0 +1,13 @@
+{
+  "name": "@valentech/circular-stringify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c7x43t/circular-stringify.git"
+  }
+}
